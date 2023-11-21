@@ -28,14 +28,11 @@ html
 Copy code
 <div class="intro">
     <!-- Your information here -->
-    <img src="your_image_url_here.jpg" alt="Your Image" />
     <div>Name: Your Name</div>
     <div>Student ID: Your Student ID</div>
     <div>Email: your.email@example.com</div>
 </div>
-<div class="image-title">
-    <h2>Your Section Title</h2>
-</div>
+
 <!-- Additional content -->
 Commit Changes:
 
